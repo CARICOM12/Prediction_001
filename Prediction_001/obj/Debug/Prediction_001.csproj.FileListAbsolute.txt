@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2015\Projects\Prediction_001\Prediction_001\bin\Debug\Prediction_001.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Prediction_001\Prediction_001\obj\Debug\Prediction_001.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Prediction_001\Prediction_001\bin\Debug\Prediction_001.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Prediction_001\Prediction_001\bin\Debug\Prediction_001.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Prediction_001\Prediction_001\obj\Debug\Prediction_001.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Prediction_001\Prediction_001\obj\Debug\Prediction_001.pdb
